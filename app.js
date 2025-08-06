@@ -95,3 +95,5 @@ const updateDisplay = () => {
     display.textContent = firstNumber;
   }
 };
+
+// Hey Justin, I struggled on the Event Listerner part so I used a little help. Im confused when writing the evvent and dot notation.
